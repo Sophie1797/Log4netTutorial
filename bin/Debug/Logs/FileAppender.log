@@ -1,0 +1,14 @@
+2018-01-25 19:36:09,590 DEBUG logger.file.ALL - [2018-01-25 19:36:09,588]
+Debug
+2018-01-25 19:36:09,601 DEBUG logger.file.ALL - [2018-01-25 19:36:09,589]
+Debug
+System.Exception: testexception
+2018-01-25 19:36:09,606 INFO logger.file.ALL - [2018-01-25 19:36:09,589]
+Info
+2018-01-25 19:36:09,610 FATAL logger.file.ALL - [2018-01-25 19:36:09,589]
+Fatal
+2018-01-25 19:36:09,614 ERROR logger.file.ALL - [2018-01-25 19:36:09,589]
+Error
+2018-01-25 19:36:09,618 WARN logger.file.ALL - [2018-01-25 19:36:09,590]
+Warn
+System.Exception: testexception

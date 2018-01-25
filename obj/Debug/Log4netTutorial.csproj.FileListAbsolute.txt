@@ -1,0 +1,9 @@
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\bin\Debug\Log4netTutorial.exe.config
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\bin\Debug\log4net.config
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\bin\Debug\Log4netTutorial.exe
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\bin\Debug\Log4netTutorial.pdb
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\bin\Debug\log4net.dll
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\bin\Debug\log4net.xml
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\obj\Debug\Log4netTutorial.csprojResolveAssemblyReference.cache
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\obj\Debug\Log4netTutorial.exe
+D:\code\C#_practice\Log4netTutorial\Log4netTutorial\obj\Debug\Log4netTutorial.pdb
